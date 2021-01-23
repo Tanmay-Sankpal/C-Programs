@@ -1,4 +1,4 @@
-//Formated Output Implementation
+//Program for Formated Output Implementation
 #include<stdio.h>
  int main()
  {
